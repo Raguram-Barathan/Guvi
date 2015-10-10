@@ -5,4 +5,4 @@ if(n!=0):
     else:
         print('Negative')
 else:
-    print('Zero'
+    print('Zero')
